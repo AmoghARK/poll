@@ -27,7 +27,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['pollster-unba.onrender.com']
 
-
 # Application definition
 
 INSTALLED_APPS = [
