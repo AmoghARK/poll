@@ -26,7 +26,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = [ 'https://pollster-91zn.onrender.com' ]
 
-
 INSTALLED_APPS = [
     'polls.apps.PollsConfig',
     'django.contrib.admin',
