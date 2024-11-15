@@ -24,7 +24,7 @@ SECRET_KEY = '1^_&3^e5&d&^1r)7q21ku7kif0czi07fiw_1^&ref^k!y#_h-d'
 
 DEBUG = True
 
-ALLOWED_HOSTS = [ 'pollster-unba.onrender.com' ]
+ALLOWED_HOSTS = [ 'https://pollster-91zn.onrender.com' ]
 
 
 INSTALLED_APPS = [
